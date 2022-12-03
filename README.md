@@ -1,4 +1,9 @@
-### Hi there :
+### Hi there 😺
+
+### i'm a newbie 🙌
+### i love to learn new things.
+### and now I'm learning about the world of programming.
+### 
 
 <!--
 **AlbarGustiP/AlbarGustiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
