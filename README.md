@@ -1,17 +1,19 @@
 # Hi there 😺
-### Welcome to [My Profile](https://github.com/AlbarGustiP) 👋
+### Welcome! to [My Profile](https://github.com/AlbarGustiP) 👋
  
 i'm a newbie 🙌
 i love to learn new things.
-Now I'm learning about the world of programming 🖥️
+Now I'm learning about the world of programming 🖥️.
 You can Call me Albar, i am a Students, and now i am trying become a programmer.
  
- Nice to Meet you!!
+Nice to Meet you!!
 
-#### Follow My Social Media:
+#### 📌 Follow My Social Media:
 * [WhatsApp](https://wa.me/+6285161476802)
 * [Instagram](https://instagram.com/albar_gusti_?igshid=YmMyMTA2M2Y=)
 * [Facebook](https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL)
+
+## Thank you...
 
 
 <!--
