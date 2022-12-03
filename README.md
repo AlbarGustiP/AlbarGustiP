@@ -1,9 +1,15 @@
-### Hi there 😺
+# Hi there 😺
+### Welcome to [My Profile](https://github.com/AlbarGustiP) 👋
+ 
+i'm a newbie 🙌
+and i love to learn new things.
+Now I'm learning about the world of programming 🖥️
 
-### i'm a newbie 🙌
-### i love to learn new things.
-### and now I'm learning about the world of programming.
-### 
+#### Follow My Social Media:
+* [WhatsApp](https://wa.me/+6285161476802)
+* [Instagram](https://instagram.com/albar_gusti_?igshid=YmMyMTA2M2Y=)
+* [Facebook](https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL)
+
 
 <!--
 **AlbarGustiP/AlbarGustiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
