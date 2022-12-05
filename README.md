@@ -6,9 +6,12 @@ Nice to meet you 😬
 
 <p align='left'>Support me,
 Thank you 🤙
-
-## My Github Stats
-
-![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=tokyonight)
+ 
+<a href="mailto:agustipamungkas@gmail.com"><img src="https://img.shields.io/badge/-agustipamungkas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@AlbarGusti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+ 
+ ## My Github Stats
+  
+![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/AlbarGustiP)
  
