@@ -7,6 +7,8 @@ Nice to meet you 😬
 <p align='left'>Support me,
 Thank you 🤙
  
+ #### 🤝🏻 &nbsp;Connect with Me
+ 
 <a href="mailto:agustipamungkas@gmail.com"><img src="https://img.shields.io/badge/-agustipamungkas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@AlbarGusti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
  
