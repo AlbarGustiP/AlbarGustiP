@@ -1,7 +1,9 @@
-## Welcome! to [![Github Badge](https://img.shields.io/badge/-AlbarGusti-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/AlbarGustiP)
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Albar Gusti</p>
 
-<h2>Little Boy Learner</h2>
-<p align='left'>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, you can call me Albar. I am a student, at this time I am still learning about Programming, I like computer & try something new, I can code but still learning.</p>
+## <p align="center">Welcome! to [![Github Badge](https://img.shields.io/badge/-AlbarGusti-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/AlbarGustiP)
+
+<p align='left'>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
+you can call me Albar. I am a student, at this time I am still learning about Programming, I like computer & try something new, I can code but still learning.
 Nice to meet you 😬
 
 <p align='left'>Support me,
