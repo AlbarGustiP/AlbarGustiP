@@ -1,27 +1,14 @@
-# Hi there 😺
-### Welcome! to [My Profile](https://github.com/AlbarGustiP) 👋
+## Welcome! to [![Github Badge](https://img.shields.io/badge/-AlbarGusti-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89)
+
+<h2>Little Boy Learner</h2>
+<p align='left'>Hello there, you can call me Albar. I am a student, at this time I am still learning about Programming, I like computer & try something new, I can code but still learning.</p>
+Nice to meet you 😬
+
+<p align='left'>Support me,
+Thank you 🤙
+
+## My Github Stats
+
+![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/AlbarGustiP)
  
-i'm a newbie 🙌
-i love to learn new things.
-Now I'm learning about the world of programming 🖥️.
-You can Call me Albar, i am a Students, and now i am trying become a programmer.
- 
-Nice to Meet you!!
-
-## Thank you...
-
-
-<!--
-**AlbarGustiP/AlbarGustiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
