@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Albar Gusti</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Nice to meet you</p>
  
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=430&lines=Hiii,+I'm+Albar+Gusti+Pamungkas;Welcome+to+My+Profile,+Enjoy">
