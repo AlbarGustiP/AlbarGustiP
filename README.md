@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Nice to meet you</p>
+### <p align="center">Hey Nice to meet you</p>
  
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=430&lines=Hiii,+I'm+Albar+Gusti+Pamungkas;Welcome+to+My+Profile,+Enjoy">
@@ -16,6 +16,7 @@ Thank you 🤙
 <!-- End -->
  
  #### 🤝🏻 &nbsp;Connect with Me
+ <a href="https://instagram.com/albar_gusti_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-@albar_gusti_-8A2BE2?style=flat&logo=Instagram&logoColor=white"/></a>
  [![Github Badge](https://img.shields.io/badge/-AlbarGusti-black?style=flat&logo=github&logoColor=white&link=https://github.com/AlbarGustiP/)](https://github.com/AlbarGustiP)
 <a href="mailto:agustipamungkas@gmail.com"><img src="https://img.shields.io/badge/-agustipamungkas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@AlbarGusti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
