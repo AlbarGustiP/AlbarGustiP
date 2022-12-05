@@ -16,6 +16,9 @@ Thank you 🤙
 ![](https://komarev.com/ghpvc/?username=AlbarGustiP&color=dc143c)
   
 ![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=radical)](https://github.com/AlbarGustiP)  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=radical)](https://github.com/AlbarGustiP)
+  
 <img  width="450em" src="https://streak-stats.demolab.com?user=AlbarGustiP&theme=radical" alt="AlbarGustiP Streak" />
+  
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">
