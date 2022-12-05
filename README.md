@@ -39,4 +39,14 @@ Thank you 🤙
    
 ![snake gif](https://github.com/AlbarGustiP/AlbarGustiP/blob/output/github-contribution-grid-snake.svg)
   
-  
+<p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+</p>
+
