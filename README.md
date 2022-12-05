@@ -19,12 +19,14 @@ Thank you 🤙
  [![Github Badge](https://img.shields.io/badge/-AlbarGusti-black?style=flat&logo=github&logoColor=white&link=https://github.com/AlbarGustiP/)](https://github.com/AlbarGustiP)
 <a href="mailto:agustipamungkas@gmail.com"><img src="https://img.shields.io/badge/-agustipamungkas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@AlbarGusti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+ 
+ [![Github](https://img.shields.io/github/followers/AlbarGustiP?label=Follow&style=social)](https://github.com/AlbarGustiP)&nbsp;![](https://komarev.com/ghpvc/?username=AlbarGustiP&color=dc143c)
+ 
  <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
  ## My Github Stats
-![](https://komarev.com/ghpvc/?username=AlbarGustiP&color=dc143c)
  
  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | ![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=tokyonight)
 :-------------------------:|:-------------------------:
