@@ -21,4 +21,3 @@ Thank you 🤙
 :-------------------------:|:-------------------------:
 <img  width="450em"   src="https://streak-stats.demolab.com?user=AlbarGustiP&theme=radical" alt="AlbarGustiP Streak" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=radical)](https://github.com/AlbarGustiP)
 
-![Contribution snake example](https://github.com/InvalidLenni/InvalidLenni/blob/output/github-contribution-grid-snake.svg)
