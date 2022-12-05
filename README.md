@@ -13,6 +13,9 @@ Thank you 🤙
 <a href="https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@AlbarGusti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
  
  ## My Github Stats
-<img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbarGustiP&show_icons=true&locale=en&layout=compact&theme=radical" alt="AlbarGustiP Most used lang" />
-:-------------------------:|:-------------------------:
-<img  width="450em"   src="https://streak-stats.demolab.com?user=AlbarGusti&theme=radical" alt="AlbarGustiP Streak" /> | <img width="450em" align="center" alt="AlbarGustiP Github stats"  src="https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&count_private=true&theme=radical" /> 
+![](https://komarev.com/ghpvc/?username=AlbarGustiP&color=dc143c)
+  
+![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=radical)](https://github.com/AlbarGustiP)  
+<img  width="450em" src="https://streak-stats.demolab.com?user=AlbarGustiP&theme=radical" alt="AlbarGustiP Streak" />
+<img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">
