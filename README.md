@@ -26,9 +26,9 @@ Thank you 🤙
  ## My Github Stats
 ![](https://komarev.com/ghpvc/?username=AlbarGustiP&color=dc143c)
  
- <img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | ![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=radical)
+ <img width="450em" src="https://github-profile-trophy.vercel.app/?username=AlbarGustiP&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | ![AlbarGustiP github stats](https://github-readme-stats.vercel.app/api?username=AlbarGustiP&show_icons=true&theme=tokyonight)
 :-------------------------:|:-------------------------:
-<img  width="450em"   src="https://streak-stats.demolab.com?user=AlbarGustiP&theme=radical" alt="AlbarGustiP Streak" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=radical)](https://github.com/AlbarGustiP)
+<img  width="450em"   src="https://streak-stats.demolab.com?user=AlbarGustiP&theme=tokyonight" alt="AlbarGustiP Streak" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarGustiP&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/AlbarGustiP)
  
  <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
