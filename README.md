@@ -8,11 +8,6 @@ You can Call me Albar, i am a Students, and now i am trying become a programmer.
  
 Nice to Meet you!!
 
-#### 📌 Follow My Social Media:
-* [WhatsApp](https://wa.me/+6285161476802)
-* [Instagram](https://instagram.com/albar_gusti_?igshid=YmMyMTA2M2Y=)
-* [Facebook](https://www.facebook.com/albargusti.pamungkas?mibextid=ZbWKwL)
-
 ## Thank you...
 
 
