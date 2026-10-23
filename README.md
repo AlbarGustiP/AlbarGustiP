@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=430&lines=I'm+Albar+Gusti+Pamungkas;Welcome+to+My+Profile,+Enjoy" />
 </a><br>
 
-Hi, I am a student, you can call me Albar or Ipung. at this time I am still learning about Programming, I like computer & try something new, I can code but still learning.
+Hi,I am still learning about Programming, I like computer & try something new, I can code but still learning.
 Nice to meet you 😬
 
 <p align='left'>Support me,
